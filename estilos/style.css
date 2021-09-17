@@ -1,2 +1,52 @@
-#Aqui o Pedro tem colocar os estilos
-#Apagar depois
+.cantor{
+        color: black;
+        text-align: center;
+    	}
+
+.musica{
+        color: black;
+        text-align: center;
+    	}
+
+.letra{
+        color: black;
+        text-align: center;
+    	}
+
+.estrofe1{
+        color: red;
+        text-align: center;
+    	}
+
+.estrofe2{
+        color: orange;
+        text-align: center;
+    	}
+
+.estrofe3{
+        color: yellow;
+        text-align: center;
+    	}
+
+.estrofe4{
+        color: green;
+        text-align: center;
+    	}
+
+.estrofe5{
+        color: blue;
+        text-align: center;
+    	}
+.estrofe6{
+        color: indigo;
+        text-align: center;
+    	}
+
+.estrofe7{
+        color: violet;
+        text-align: center;
+    	}
+
+.video{
+        text-align: center;
+    	}
